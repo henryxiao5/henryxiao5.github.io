@@ -6,8 +6,8 @@ email: 2188774361@qq.com
 description: "从别人那fork来的"
 keyword: "目前没有"
 url: "https://henryxiao5.github.io"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klhttps://github.com/henryxiao5/henryxiao5.github.io/edit/master/_config.ymlovien/klovien.github.io.git" # you code repository
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/henryxiao5/henryxiao5.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
